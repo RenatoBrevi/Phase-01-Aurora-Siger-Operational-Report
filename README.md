@@ -1,4 +1,4 @@
-# Phase-01-Aurora-Siger-Operational-Report
+# **ATIVIDADE INTEGRADORA - RELATÓRIO OPERACIONAL DE PRÉ-DECOLAGEM - FASE 01**
 This repository is from the 1st phase of my bacharel degree course on Computer Science from FIAP University.
 
 # Projeto de Telemetria Sintética para Tomada de Decisão de Lançamento na Missão Aurora Siger
